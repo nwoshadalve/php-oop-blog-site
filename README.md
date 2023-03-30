@@ -21,7 +21,7 @@ This is a blog website that includes an admin panel for managing the blog conten
 
 ## Installation
 
-1. Clone the repository to your local machine: git clone https://github.com/your-username/blog-website.git
+1. Clone the repository to your local machine: git clone https://github.com/nwoshadalve/php-oop-blog-site.git
 2. Import the `db_palki.sql` file into your MySQL database: mysql -u username -p database_name < db_palki.sql 
 3. Update the database configuration in `config.php` with your MySQL credentials:
     define('SERVER', 'localhost');
